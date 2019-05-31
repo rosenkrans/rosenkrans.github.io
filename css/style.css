@@ -11,3 +11,20 @@ h2{
     
     text-align: center;
 }
+
+.coke{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+  }
+
+ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+
