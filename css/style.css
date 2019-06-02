@@ -33,19 +33,30 @@ h3{
 }
 
 .p-sections{
-    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 50px;
     width: 50%;
     border: 3px solid #181892;
     padding: 10px;
 }
 
 
+p{
+    text-align: center;
+}
 
+.produce{
+    text-align: center;
 
-
+}
 
 
 #linkedin{    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     width: 5%;
 }
 
