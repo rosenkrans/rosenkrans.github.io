@@ -12,7 +12,7 @@ h2{
     text-align: center;
 }
 
-.coke{
+.markpic{
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -27,10 +27,21 @@ h2{
     border: 4px solid #181892;
 }
 
-.pro-p{
-    display: block;
-    width: 25%;     
+
+h3{
+    text-align: center;
 }
+
+.p-sections{
+    margin: auto;
+    width: 50%;
+    border: 3px solid #181892;
+    padding: 10px;
+}
+
+
+
+
 
 
 
