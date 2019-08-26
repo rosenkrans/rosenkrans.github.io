@@ -16,7 +16,7 @@ h2{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 10%;
+    width: 20%;
   }
 
 .links{
@@ -25,10 +25,6 @@ h2{
     justify-content: space-around;
     align-items: center;
     border: 4px solid #181892;
-}
-
-.about-me{
-    margin-top: 200px;
 }
 
 h3{
@@ -45,12 +41,16 @@ h3{
     padding: 10px;
 }
 
+.about-me{
+    margin-top: 600px;
+}
+
 .software-projects{
-    margin-top: 200px;
+    margin-top: 600px;
 }
 
 .contact-me{
-    margin-top: 200px;
+    margin-top: 600px;
 }
 
 p{
