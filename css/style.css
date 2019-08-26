@@ -28,7 +28,7 @@ h2{
 }
 
 .about-me{
-    margin-top: 100px;
+    margin-top: 200px;
 }
 
 h3{
@@ -46,7 +46,11 @@ h3{
 }
 
 .software-projects{
-    margin-top: 100px;
+    margin-top: 200px;
+}
+
+.contact-me{
+    margin-top: 200px;
 }
 
 p{
