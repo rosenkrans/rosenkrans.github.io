@@ -80,6 +80,10 @@ h3{
     font-weight: bold;
 }
 
+.about-paragraph{
+    font-size: 20;
+}
+
 .software-projects{
     margin-top: 500px;
 }
